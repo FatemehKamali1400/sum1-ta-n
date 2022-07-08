@@ -1,0 +1,45 @@
+C:\Users\Tohid Goudarzi\Desktop\tamrin9ta\tamrinat\sumnadad\bin\Debug\net6.0\sumnadad.exe
+C:\Users\Tohid Goudarzi\Desktop\tamrin9ta\tamrinat\sumnadad\bin\Debug\net6.0\sumnadad.deps.json
+C:\Users\Tohid Goudarzi\Desktop\tamrin9ta\tamrinat\sumnadad\bin\Debug\net6.0\sumnadad.runtimeconfig.json
+C:\Users\Tohid Goudarzi\Desktop\tamrin9ta\tamrinat\sumnadad\bin\Debug\net6.0\sumnadad.dll
+C:\Users\Tohid Goudarzi\Desktop\tamrin9ta\tamrinat\sumnadad\bin\Debug\net6.0\sumnadad.pdb
+C:\Users\Tohid Goudarzi\Desktop\tamrin9ta\tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.csproj.AssemblyReference.cache
+C:\Users\Tohid Goudarzi\Desktop\tamrin9ta\tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tohid Goudarzi\Desktop\tamrin9ta\tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.AssemblyInfoInputs.cache
+C:\Users\Tohid Goudarzi\Desktop\tamrin9ta\tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.AssemblyInfo.cs
+C:\Users\Tohid Goudarzi\Desktop\tamrin9ta\tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.csproj.CoreCompileInputs.cache
+C:\Users\Tohid Goudarzi\Desktop\tamrin9ta\tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.dll
+C:\Users\Tohid Goudarzi\Desktop\tamrin9ta\tamrinat\sumnadad\obj\Debug\net6.0\refint\sumnadad.dll
+C:\Users\Tohid Goudarzi\Desktop\tamrin9ta\tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.pdb
+C:\Users\Tohid Goudarzi\Desktop\tamrin9ta\tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.genruntimeconfig.cache
+C:\Users\Tohid Goudarzi\Desktop\tamrin9ta\tamrinat\sumnadad\obj\Debug\net6.0\ref\sumnadad.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\sumnadad\bin\Debug\net6.0\sumnadad.exe
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\sumnadad\bin\Debug\net6.0\sumnadad.deps.json
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\sumnadad\bin\Debug\net6.0\sumnadad.runtimeconfig.json
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\sumnadad\bin\Debug\net6.0\sumnadad.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\sumnadad\bin\Debug\net6.0\sumnadad.pdb
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.csproj.AssemblyReference.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.AssemblyInfoInputs.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.AssemblyInfo.cs
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.csproj.CoreCompileInputs.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\sumnadad\obj\Debug\net6.0\refint\sumnadad.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.pdb
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\sumnadad\obj\Debug\net6.0\sumnadad.genruntimeconfig.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\sumnadad\obj\Debug\net6.0\ref\sumnadad.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\1\sumnadad\bin\Debug\net6.0\sumnadad.exe
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\1\sumnadad\bin\Debug\net6.0\sumnadad.deps.json
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\1\sumnadad\bin\Debug\net6.0\sumnadad.runtimeconfig.json
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\1\sumnadad\bin\Debug\net6.0\sumnadad.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\1\sumnadad\bin\Debug\net6.0\sumnadad.pdb
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\1\sumnadad\obj\Debug\net6.0\sumnadad.csproj.AssemblyReference.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\1\sumnadad\obj\Debug\net6.0\sumnadad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\1\sumnadad\obj\Debug\net6.0\sumnadad.AssemblyInfoInputs.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\1\sumnadad\obj\Debug\net6.0\sumnadad.AssemblyInfo.cs
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\1\sumnadad\obj\Debug\net6.0\sumnadad.csproj.CoreCompileInputs.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\1\sumnadad\obj\Debug\net6.0\sumnadad.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\1\sumnadad\obj\Debug\net6.0\refint\sumnadad.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\1\sumnadad\obj\Debug\net6.0\sumnadad.pdb
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\1\sumnadad\obj\Debug\net6.0\sumnadad.genruntimeconfig.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\1\sumnadad\obj\Debug\net6.0\ref\sumnadad.dll
